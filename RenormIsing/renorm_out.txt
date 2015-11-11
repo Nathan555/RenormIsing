@@ -1,0 +1,2 @@
+Exp[A(k)+2k'] = 14 Exp[-2 k]+ 16 Exp[2 k]+ 2 Exp[6 k]
+Exp[A(k)-2k'] = 2 Exp[-6 k]+ 16 Exp[-2 k]+ 14 Exp[2 k]
